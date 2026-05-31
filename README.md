@@ -1,4 +1,4 @@
-CodSoft Internship
+CodSoft  Internship 
 Completed a Data Science Internship at CodSoft, gaining practical experience in data analysis, data visualization, machine learning, and predictive modeling using Python.
 
 # Task 1 Titanic Survival Prediction
