@@ -50,3 +50,31 @@ This project uses Machine Learning to predict movie ratings based on features su
 
 The model was trained and evaluated using Mean Absolute Error (MAE), Root Mean Squared Error (RMSE), and R² Score to predict movie ratings accurately. Various visualizations were created to analyze genre distribution, rating trends, and feature importance.
 
+# Task 3 Iris Flower Classification 
+
+This project uses Machine Learning to classify Iris flowers into different species based on their sepal and petal measurements. The dataset was cleaned, analyzed, and visualized using Python.
+
+## Tools Used
+
+* Python
+* Pandas
+* NumPy
+* Matplotlib
+* Seaborn
+* Scikit-Learn
+
+## Project Steps
+
+* Data Cleaning
+* Data Visualization
+* Exploratory Data Analysis (EDA)
+* Feature Encoding
+* Train-Test Split
+* Random Forest Classification Model
+* Model Evaluation
+
+## Results
+
+The model was trained and evaluated using Accuracy Score, Confusion Matrix, and Classification Report to classify Iris flowers into their respective species accurately. The model achieved high accuracy and demonstrated the effectiveness of Machine Learning in classification tasks.
+
+
