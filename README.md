@@ -77,4 +77,31 @@ This project uses Machine Learning to classify Iris flowers into different speci
 
 The model was trained and evaluated using Accuracy Score, Confusion Matrix, and Classification Report to classify Iris flowers into their respective species accurately. The model achieved high accuracy and demonstrated the effectiveness of Machine Learning in classification tasks.
 
+# Task 4 Sales Prediction using Python
+
+This project uses Machine Learning to predict product sales based on advertising expenditures across different media platforms such as TV, Radio, and Newspaper. The dataset was cleaned, analyzed, and visualized using Python.
+
+## Tools Used
+
+* Python
+* Pandas
+* NumPy
+* Matplotlib
+* Seaborn
+* Scikit-Learn
+
+## Project Steps
+
+* Data Cleaning
+* Exploratory Data Analysis (EDA)
+* Data Visualization
+* Correlation Analysis
+* Linear Regression Model
+* Model Evaluation
+
+## Results
+
+The model was trained and evaluated using Mean Absolute Error (MAE), Root Mean Squared Error (RMSE), and R² Score to predict sales accurately. Visualizations were created to analyze advertising impact and sales trends.
+
+
 
