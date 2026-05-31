@@ -1,3 +1,6 @@
+CodSoft Internship
+Completed a Data Science Internship at CodSoft, gaining practical experience in data analysis, data visualization, machine learning, and predictive modeling using Python.
+
 # Task 1 Titanic Survival Prediction
 
 This project uses Machine Learning to predict whether a passenger survived the Titanic disaster. The dataset was cleaned, analyzed, and visualized using Python.
@@ -102,6 +105,33 @@ This project uses Machine Learning to predict product sales based on advertising
 ## Results
 
 The model was trained and evaluated using Mean Absolute Error (MAE), Root Mean Squared Error (RMSE), and R² Score to predict sales accurately. Visualizations were created to analyze advertising impact and sales trends.
+
+# Task 5: Credit Card Fraud Detection
+
+This project uses Machine Learning to identify fraudulent credit card transactions. The dataset was cleaned, analyzed, and visualized using Python to build an effective fraud detection model.
+
+## Tools Used
+
+* Python
+* Pandas
+* NumPy
+* Matplotlib
+* Seaborn
+* Scikit-Learn
+
+## Project Steps
+
+* Data Cleaning
+* Duplicate Record Removal
+* Data Visualization
+* Feature Scaling
+* Train-Test Split
+* Logistic Regression Model
+* Model Evaluation
+
+## Results
+
+The model was trained and evaluated using Accuracy Score, Precision, Recall, F1-Score, Confusion Matrix, and Classification Report to classify transactions as Fraudulent or Genuine.
 
 
 
